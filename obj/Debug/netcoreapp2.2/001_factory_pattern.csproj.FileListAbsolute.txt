@@ -1,0 +1,12 @@
+/Users/bepputatsuhiko/work3/cs/001_factory_pattern/bin/Debug/netcoreapp2.2/001_factory_pattern.deps.json
+/Users/bepputatsuhiko/work3/cs/001_factory_pattern/bin/Debug/netcoreapp2.2/001_factory_pattern.runtimeconfig.json
+/Users/bepputatsuhiko/work3/cs/001_factory_pattern/bin/Debug/netcoreapp2.2/001_factory_pattern.runtimeconfig.dev.json
+/Users/bepputatsuhiko/work3/cs/001_factory_pattern/bin/Debug/netcoreapp2.2/001_factory_pattern.dll
+/Users/bepputatsuhiko/work3/cs/001_factory_pattern/bin/Debug/netcoreapp2.2/001_factory_pattern.pdb
+/Users/bepputatsuhiko/work3/cs/001_factory_pattern/obj/Debug/netcoreapp2.2/001_factory_pattern.csprojAssemblyReference.cache
+/Users/bepputatsuhiko/work3/cs/001_factory_pattern/obj/Debug/netcoreapp2.2/001_factory_pattern.csproj.CoreCompileInputs.cache
+/Users/bepputatsuhiko/work3/cs/001_factory_pattern/obj/Debug/netcoreapp2.2/001_factory_pattern.AssemblyInfoInputs.cache
+/Users/bepputatsuhiko/work3/cs/001_factory_pattern/obj/Debug/netcoreapp2.2/001_factory_pattern.AssemblyInfo.cs
+/Users/bepputatsuhiko/work3/cs/001_factory_pattern/obj/Debug/netcoreapp2.2/001_factory_pattern.dll
+/Users/bepputatsuhiko/work3/cs/001_factory_pattern/obj/Debug/netcoreapp2.2/001_factory_pattern.pdb
+/Users/bepputatsuhiko/work3/cs/001_factory_pattern/obj/Debug/netcoreapp2.2/001_factory_pattern.genruntimeconfig.cache
